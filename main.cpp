@@ -1,4 +1,4 @@
-//Kure Dominykas Rakunas, egzamine 20min liko sitam :DD
+//Kure Dominykas Rakunas :D
 #include <bits/stdc++.h> // visos bibliotekos
 
 using namespace std;
