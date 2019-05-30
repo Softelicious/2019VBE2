@@ -5,4 +5,4 @@ Merginos
 Vaikinai
 256 Zigmas Nosis         0 20 6
 213 Petras A. Petraitis  0 38 10
-255 Rytis Uosis Ainis    0 39 50
+255 Rytis Uosis Ainis    0 39 50 

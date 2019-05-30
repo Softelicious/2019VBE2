@@ -23,8 +23,8 @@ int main()
     int suvis; // pataikyti suviai
     int suvisTemp = 0; // nepataikyti suviai
     string vardasTemp; //laikinas vardas
-    int indexVyr = 0; // identifikatorius merginu lentelei
-    int indexMot = 0; // identifikatorius vaikinu lentelei
+    int indexVyr = 0; // identifikatorius vaikinu lentelei
+    int indexMot = 0; // identifikatorius merginu lentelei
 
     zaidejas zaidejai[30]; // visi
     zaidejas vaikinai[30]; // jau fisisave
